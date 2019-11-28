@@ -3,7 +3,6 @@ const SongsLayout = require('./layouts/SongLayout.jsx');
 
 class Index extends React.Component {
     render() {
-
         const customStyles = {
             backgroundColor: "#444",
             color: "white"
