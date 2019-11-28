@@ -1,6 +1,9 @@
 {
   "name": "unit2-project",
   "version": "1.0.0",
+  "engines":{
+    "node": "12.7.0"
+  },
   "description": "Songs Setlists",
   "main": "server.js",
   "scripts": {
