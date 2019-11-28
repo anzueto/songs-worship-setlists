@@ -5,6 +5,7 @@ https://dashboard.heroku.com/apps/songs-worship-setlist-heroku/songs
 ##  The necesity
 At out local church I'm part of the worship team. One of the issues we face each week is coming up with a song setlist for sunday service. coming up with a setlist is not as easy as it seems. keeping track of the songs we played during month is difficult as some songs tend to burn out because we played them too much. We spend to much time coming up with setlist during practice.
 
+
 ##  Solution
 1 create a database of the songs we play
 2 use the database to create curated setslists that we can use though out the whole year.
